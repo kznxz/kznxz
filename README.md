@@ -6,6 +6,7 @@ I'm 20 years old
 
 🌐 Socials:
 
+
 <div>
 <a href="https://instagram.com/_kauatttk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kauatttk" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -13,6 +14,7 @@ I'm 20 years old
 </div>
 
 📊 GitHub Stats:
+
 
 ![kznxz's Stats](https://github-readme-stats.vercel.app/api?username=kznxz&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
