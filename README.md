@@ -1,6 +1,6 @@
 <h1>💫 </h1>
 
-Full Stack Developer
+Full Stack Developer<br>
 I'm 20 years old
 
 
