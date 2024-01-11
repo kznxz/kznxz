@@ -1,10 +1,10 @@
-💫 
+<h1>💫 </h1>
 
 Full Stack Developer
 I'm 20 years old
 
 
-🌐 Socials:
+<h1>🌐 Socials:</h1>
 
 
 <div>
@@ -13,7 +13,7 @@ I'm 20 years old
 <a href = "mailto:contato@kauasantoscf20@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-📊 GitHub Stats:
+<h1>📊 GitHub Stats:</h1>
 
 
 ![kznxz's Stats](https://github-readme-stats.vercel.app/api?username=kznxz&theme=outrun&show_icons=true&hide_border=false&count_private=true)
